@@ -1,4 +1,3 @@
 # Robots.txt File
 User-agent: *
 Disallow: /
-Sitemap:
